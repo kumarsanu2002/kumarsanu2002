@@ -1,4 +1,4 @@
-[![MasterHead] (https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)(https://github.com/kumarsanu2002)
+[![MasterHead] (https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)(https://github.com/kumarsanu2002)
 
 <h1 align="center">Hi 👋, I'm Kumar sanu</h1>
 <h3 align="center">A passionate frontend developer and problem solver from India</h3>
