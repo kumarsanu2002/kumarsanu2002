@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanusin17629188" target="blank"><img src="https://img.shields.io/twitter/follow/sanusin17629188?logo=twitter&style=for-the-badge" alt="sanusin17629188" /></a> </p>
 
-- 🌱 I’m currently learning **Backend-development**
+- 🌱 I’m currently learning **Backend-web-development**
 
 - 👯 I’m looking to collaborate on **Front-end project**
 
