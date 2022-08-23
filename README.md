@@ -28,8 +28,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kumarsanu1Z"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kumarsanu1Z" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarsanu2002&show_icons=true&locale=en&layout=compact" alt="kumarsanu2002" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarsanu2002&show_icons=true&locale=en" alt="kumarsanu2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsanu2002&" alt="kumarsanu2002" /></p>
