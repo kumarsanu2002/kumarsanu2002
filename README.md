@@ -31,4 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarsanu2002&show_icons=true&locale=en" alt="kumarsanu2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsanu2002&" alt="kumarsanu2002" /></p>
-[![@kumarsanu2002's Holopin board](https://holopin.io/api/user/board?user=kumarsanu2002)](https://holopin.io/@kumarsanu2002)
+
